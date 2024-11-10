@@ -30,9 +30,5 @@ This project represents a **pioneering effort** in real-time satellite-based shi
 
 ---
 
-## **GitHub Link**
-
-[Your GitHub Repository Here]  
-*(Include a link to your repository where the full project code is hosted)*
 
 
